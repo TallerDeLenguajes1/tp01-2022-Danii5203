@@ -2,7 +2,7 @@
 _Lucas Daniel Ibáñez_
 
 ## Investigar el archivo .gitignore ¿Por qué es conveniente incluirlo? ¿Cuándose debe hacer?¿Cómo configuraría el archivo .gitignore?
-    *A los archivos ignorados se les hace un seguimiento en un archivo especial llamado* **.gitignore** *que se incorpora en 
+    *A los archivos ignorados se les hace un seguimiento en un archivo especial llamado ".gitignore" que se incorpora en 
 la raíz de tu repositorio.*
     *Es conveniente incluirlo en proyectos donde debemos hacer varios commits y evitar subir archivos o carpetas innecesarias al repositorio.
     Antes de configurarlo debemos crear el archivo* **".gitignore"** *en la carpeta raiz de nuestro proyecto.*
