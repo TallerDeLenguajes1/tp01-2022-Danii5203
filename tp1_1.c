@@ -7,7 +7,7 @@ int main(){
 
     //Punto e)
     int i = 10;
-    int *punt = &i; //asignamos al puntero la dir. de memoria de la variable i
+    int *punt = &i; //asignamos al puntero la dir. de memoria de la variable i.
 
     //Punto f)
     printf("Contenido del puntero: %p\n", punt); //el puntero almacena la dir. de memoria de la variable a la que apunta

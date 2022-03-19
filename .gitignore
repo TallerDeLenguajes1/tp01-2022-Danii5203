@@ -39,10 +39,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/executable,windows
-
 # el archivo ingorado.txt
 ignorado.txt
+
+# End of https://www.toptal.com/developers/gitignore/api/executable,windows
 
 # carpeta generada por el vscode
 .vscode/

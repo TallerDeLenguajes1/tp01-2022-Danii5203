@@ -16,7 +16,7 @@ la raíz de tu repositorio.*
 
 - *Si colocamos la siguiente línea **.exe**, Estaremos evitando que el sistema de control de versiones procese todos los archivos acabados de **.exe**.*
     
-*Se puede ignorar un archivo **ignorado.txt** solamente agregandolo al archivo **.gitignore**.*
+*Se puede ignorar un archivo **ignorado.txt** solamente agregandolo al archivo **".gitignore"**.*
 
 ## Si resolvió correctamente los puntos ii y iii notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿es igual a los anteriores? ¿por qué? Responder en el archivo readme.md
 
@@ -26,6 +26,6 @@ la raíz de tu repositorio.*
 
 ##  Revise los archivos subidos en su repositorio de github. ¿Que archivos ve?¿Cuál cree que no hace falta que esté?
 
-*Veo los archivos del **.gitignore**, **README.md** y los **.c**, en mi caso puse en el .gitignore los archivos/carpetas que no queria que se subieran a mi repositorio por lo tanto no aparece ningun archivo/carpeta innecesaria.*
+*Veo los archivos del **".gitignore"**, **README.md** y los **.c**, en mi caso puse en el .gitignore los archivos/carpetas que no queria que se subieran a mi repositorio por lo tanto no aparece ningun archivo/carpeta innecesaria.*
 
 

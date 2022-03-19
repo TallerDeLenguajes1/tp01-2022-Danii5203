@@ -16,7 +16,6 @@ void invertirVal(int *a, int *b);
 //Inicializamos la funcion para ordenar los valores de menor a mayor
 void ordenarVal(int n1, int n2);
 
-
 int main(){
     int num = 4;
 
