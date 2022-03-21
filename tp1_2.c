@@ -14,7 +14,7 @@ void infoVar(int num);
 void invertirVal(int *a, int *b);
 
 //Inicializamos la funcion para ordenar los valores de menor a mayor
-void ordenarVal(int n1, int n2);
+void ordenarVal(int *n1, int *n2);
 
 int main(){
     int num = 4;
@@ -49,7 +49,7 @@ int main(){
     printf("Ingrese el valor de b: ");
     scanf("%d", &n2);
 
-    ordenarVal(n1, n2);
+    ordenarVal(&n1, &n2);
 
     getchar();
     system("pause");
@@ -83,10 +83,10 @@ void invertirVal(int *a, int *b){
 }
 
 //Ordenar valores de menor a mayor
-void ordenarVal(int n1, int n2){
-    if(n1 <= n2){
-        printf("El orden en forma ascentende seria:\n- n1 = %d\n- n2 = %d\n", n1, n2);
+void ordenarVal(int *n1, int *n2){
+    if(*n1 <= *n2){
+        printf("El orden en forma ascentende seria:\n- n1 = %d\n- n2 = %d\n", *n1, *n2);
     }else{
-        printf("El orden en forma ascentende seria:\n- n2 = %d\n- n1 = %d\n", n2, n1);
+        printf("El orden en forma ascentende seria:\n- n2 = %d\n- n1 = %d\n", *n2, *n1);
     }
 }
