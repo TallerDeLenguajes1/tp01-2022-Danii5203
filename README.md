@@ -1,6 +1,7 @@
 # Trabajo Práctico N°1 - 2022
 _Lucas Daniel Ibáñez_
 
+
 ## Investigar el archivo .gitignore ¿Por qué es conveniente incluirlo? ¿Cuándose debe hacer?¿Cómo configuraría el archivo .gitignore?
 
 *A los archivos ignorados se les hace un seguimiento en un archivo especial llamado **".gitignore"** que se incorpora en 

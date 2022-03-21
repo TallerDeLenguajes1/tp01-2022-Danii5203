@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 int main(){
-
     //Punto a)
     printf("Hola Mundo!\n");
 

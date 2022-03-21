@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/executable,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=executable,windows
 
+
 ### Executable ###
 *.app
 *.bat
